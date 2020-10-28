@@ -1,0 +1,1 @@
+[https://animemoeus.github.io/animemoeus-api/examples/random-quotes/](https://animemoeus.github.io/animemoeus-api/examples/random-quotes/)
